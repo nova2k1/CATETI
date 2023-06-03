@@ -29,7 +29,7 @@ def calculate_hypotenuse_with_logging(a, b):
     hypotenuse = calculate_hypotenuse(a, b)
     return hypotenuse
 
-# Главная программа
+
 a = float(input("Введите длину первого катета: "))
 b = float(input("Введите длину второго катета: "))
 
